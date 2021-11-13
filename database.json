@@ -95,5 +95,23 @@
         "Current loaction":"Katihar",
         "Fav cricketer":"Dhoni",
         "age":13
+    },
+
+    "lucifer":{
+        "FavFood":"pizza",
+        "FavMovie":"jab we met",
+        "Password":"reset123",
+        "Current loaction":"gujarat",
+        "Fav cricketer":"Rahul Dravid",
+        "age":32
+    },
+
+    "alex":{
+        "FavFood":"steak",
+        "FavMovie":"Empire of the sun",
+        "Password":"alex1234",
+        "Current loaction":"Hong Kong",
+        "Fav cricketer":"Shakib",
+        "age":38
     }
 }

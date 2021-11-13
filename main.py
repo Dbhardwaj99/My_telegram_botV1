@@ -5,15 +5,15 @@ import responses as res
 print("Bot started..")
 
 
-def start_command(update):
+def start_command(update, context):
     update.message.reply_text("Type your username to get started.")
 
 
-def help_command(update):
+def help_command(update, context):
     update.message.reply_text("Google your doubts")
 
 
-def handle_message(update):
+def handle_message(update, context):
     text = str(update.message.text).lower()
     response = res.sample_response(text)
     update.message.reply_text(response)
