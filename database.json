@@ -113,5 +113,14 @@
         "Current loaction":"Hong Kong",
         "Fav cricketer":"Shakib",
         "age":38
+    },
+
+    "tarek":{
+        "FavFood":"pasta",
+        "FavMovie":"godfather",
+        "Password":"123456az",
+        "Current loaction":"Egypt",
+        "Fav cricketer":"Sachin",
+        "age":32
     }
 }
